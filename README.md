@@ -16,9 +16,11 @@ FitCourt es una aplicación móvil que te ayuda a encontrar y reservar canchas d
 Dependiendo de tu dispositivo, sigue la guía correspondiente:
 
 ### 📱 Para iPhone/iPad
+
 👉 [Guía de instalación iOS (TestFlight)](./guia-ios-testflight.md)
 
 ### 🤖 Para Android
+
 👉 [Guía de instalación Android (Play Store)](./guia-android-playstore.md)
 
 ## 🧪 ¿Qué Probar?
@@ -37,24 +39,28 @@ Si encuentras algún bug o tienes sugerencias:
 ## ❓ Preguntas Frecuentes
 
 ### ¿Necesito crear una cuenta?
+
 Sí, necesitarás registrarte con tu email para acceder a todas las funcionalidades.
 
 ### ¿La app funciona sin conexión?
+
 No, necesitas conexión a internet para ver el mapa y los parques.
 
 ### ¿Puedo usar mi ubicación real?
+
 Sí, la app solicita permisos de ubicación para mostrarte parques cercanos.
 
 ### ¿Hasta cuándo puedo probar la app?
+
 El programa de pruebas beta está activo hasta **[FECHA]**.
 
 ### ¿Recibiré actualizaciones?
+
 Sí, cuando publiquemos nuevas versiones recibirás una notificación automática en TestFlight (iOS) o Play Store (Android).
 
 ## 📞 Contacto y Soporte
 
-- **Email**: [TU_EMAIL@fitcourt.com]
-- **Grupo de testers**: [LINK_A_SLACK/DISCORD]
+- **Email**: [fitcourttech@gmail.com]
 - **Horario de soporte**: Lunes a Viernes, 9am - 6pm
 
 ## 🙏 Agradecimientos

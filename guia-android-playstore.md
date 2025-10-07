@@ -14,11 +14,13 @@ Esta guía te ayudará a instalar FitCourt en tu dispositivo Android usando Goog
 Recibirás un email con el asunto: **"Te han invitado a probar FitCourt en Google Play"**
 
 ### Opción A: Desde el Email
+
 1. Abre el email de invitación en tu dispositivo Android
 2. Toca el botón **"Aceptar invitación"** o **"Accept invitation"**
 3. Se abrirá Google Play Store automáticamente
 
 ### Opción B: Usando el Link Directo
+
 1. Abre este link en tu dispositivo Android:
    ```
    [AQUÍ_VA_TU_LINK_DE_PLAY_STORE]
@@ -37,6 +39,7 @@ Recibirás un email con el asunto: **"Te han invitado a probar FitCourt en Googl
 ## 🔐 Paso 3: Configuración Inicial
 
 ### Permitir Ubicación
+
 La primera vez que abras FitCourt, la app te pedirá permisos:
 
 1. **"FitCourt desea acceder a tu ubicación"**
@@ -44,6 +47,7 @@ La primera vez que abras FitCourt, la app te pedirá permisos:
    - Esto es necesario para mostrar parques cercanos
 
 ### Crear Cuenta
+
 1. Toca **"Registrarse"** o **"Sign Up"**
 2. Ingresa tu:
    - Nombre completo
@@ -52,6 +56,7 @@ La primera vez que abras FitCourt, la app te pedirá permisos:
 3. Toca **"Crear Cuenta"**
 
 O si prefieres:
+
 - Toca **"Iniciar Sesión"** si ya tienes cuenta
 
 ## 🔄 Recibir Actualizaciones
@@ -68,31 +73,31 @@ Cuando publiquemos una nueva versión:
 ## ⚠️ Solución de Problemas
 
 ### No recibí el email de invitación
+
 - Revisa tu carpeta de **Spam/Correo no deseado**
 - Verifica que el email sea el correcto
-- Solicita un reenvío a: **[TU_EMAIL@fitcourt.com]**
+- Solicita un reenvío a: **[fitcourttech@gmail.com]**
 
 ### Play Store dice "La app no está disponible en tu país"
+
 - Esto puede ser porque tu cuenta de Google está registrada en otro país
-- Solicita ayuda a: **[TU_EMAIL@fitcourt.com]**
+- Solicita ayuda a: **[fitcourttech@gmail.com]**
 
 ### La app no se instala
+
 - Verifica que tengas **espacio disponible** (al menos 100 MB)
 - Asegúrate de tener **Android 6.0 o superior**
 - Ve a: Ajustes → Aplicaciones → Play Store → Borrar caché
 - Reinicia tu dispositivo e intenta de nuevo
 
 ### No puedo ver el mapa
+
 - Verifica que tengas **conexión a internet**
 - Asegúrate de haber dado **permisos de ubicación**
 - Ve a: Ajustes → Aplicaciones → FitCourt → Permisos → Ubicación → "Permitir solo mientras se usa la app"
 
-### La app se cierra sola (crash)
-- Esto es normal en versiones beta
-- Por favor **reporta el bug** con el [Template de Reporte](./template-bug-report.md)
-- Play Store envía automáticamente los crash logs a los desarrolladores
-
 ### "Error al obtener datos del servidor"
+
 - Verifica tu **conexión a internet**
 - Intenta cerrar y abrir la app nuevamente
 - Si persiste, reporta el error
@@ -101,7 +106,6 @@ Cuando publiquemos una nueva versión:
 
 - 🧪 **Programa de pruebas**: Estás probando una versión beta (Internal Testing)
 - 🔄 **Actualizaciones**: Recibirás notificaciones cuando haya nuevas versiones
-- 🐛 **Reportar bugs**: Usa nuestro [Template de Reporte](./template-bug-report.md)
 - 📊 **Datos de prueba**: Los datos pueden ser borrados entre versiones
 - 🔒 **Privacidad**: Esta es una versión de prueba, tus datos están seguros pero pueden ser reiniciados
 
@@ -115,7 +119,7 @@ Cuando publiquemos una nueva versión:
 
 ## 📞 ¿Necesitas Ayuda?
 
-- **Email**: [TU_EMAIL@fitcourt.com]
+- **Email**: [fitcourttech@gmail.com]
 - **Grupo de testers**: [LINK_A_SLACK/DISCORD]
 
 ---
