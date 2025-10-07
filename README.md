@@ -49,10 +49,6 @@ No, necesitas conexión a internet para ver el mapa y los parques.
 
 Sí, la app solicita permisos de ubicación para mostrarte parques cercanos.
 
-### ¿Hasta cuándo puedo probar la app?
-
-El programa de pruebas beta está activo hasta **[FECHA]**.
-
 ### ¿Recibiré actualizaciones?
 
 Sí, cuando publiquemos nuevas versiones recibirás una notificación automática en TestFlight (iOS) o Play Store (Android).

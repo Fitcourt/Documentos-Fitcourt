@@ -7,12 +7,14 @@ Esta lista te ayudará a probar todas las funcionalidades principales de FitCour
 ### 🔐 Autenticación
 
 - [ ] **Registro de nuevo usuario**
+
   - Crear cuenta con email y contraseña
   - Verificar que se solicite nombre completo
   - Verificar que la contraseña tenga mínimo 6 caracteres
   - ¿Recibiste algún error? ¿Cuál?
 
 - [ ] **Inicio de sesión**
+
   - Iniciar sesión con las credenciales creadas
   - Cerrar sesión
   - Volver a iniciar sesión
@@ -27,17 +29,20 @@ Esta lista te ayudará a probar todas las funcionalidades principales de FitCour
 ### 🗺️ Mapa Interactivo
 
 - [ ] **Visualización del mapa**
+
   - El mapa se carga correctamente
   - Se muestran los tiles del mapa (no está en blanco/gris)
   - Se ve el logo de Google en la esquina inferior
   - ¿El mapa se ve completo y funcional?
 
 - [ ] **Ubicación del usuario**
+
   - Se muestra tu ubicación actual (punto azul)
   - El mapa centra en tu ubicación al abrir
   - ¿La ubicación es precisa?
 
 - [ ] **Navegación del mapa**
+
   - Hacer zoom in (acercar con dos dedos)
   - Hacer zoom out (alejar con dos dedos)
   - Desplazar el mapa en todas direcciones
@@ -51,12 +56,14 @@ Esta lista te ayudará a probar todas las funcionalidades principales de FitCour
 ### 📍 Información de Parques
 
 - [ ] **Callouts (burbujas de información)**
+
   - Tocar un marcador en el mapa
   - Se muestra una burbuja con nombre del parque
   - La burbuja muestra "Ver más →"
   - ¿La información es legible?
 
 - [ ] **Detalles del parque**
+
   - Tocar "Ver más →" en un callout
   - Se abre pantalla de detalles completa
   - Se muestra:
@@ -76,6 +83,7 @@ Esta lista te ayudará a probar todas las funcionalidades principales de FitCour
 ### 👤 Perfil de Usuario
 
 - [ ] **Visualización del perfil**
+
   - Ir a la pestaña "Perfil"
   - Se muestra tu nombre
   - Se muestra tu email
@@ -83,6 +91,7 @@ Esta lista te ayudará a probar todas las funcionalidades principales de FitCour
   - ¿La información es correcta?
 
 - [ ] **Edición de perfil** (si disponible)
+
   - Cambiar nombre de usuario
   - Cambiar foto de perfil
   - ¿Los cambios se guardan correctamente?
@@ -96,6 +105,7 @@ Esta lista te ayudará a probar todas las funcionalidades principales de FitCour
 ### 📱 Navegación General
 
 - [ ] **Pestañas principales**
+
   - Cambiar entre pestaña "Mapa" y "Perfil"
   - Verificar que ambas pestañas funcionan
   - ¿Las pestañas responden rápidamente?
@@ -108,12 +118,14 @@ Esta lista te ayudará a probar todas las funcionalidades principales de FitCour
 ### 🎨 Interfaz de Usuario
 
 - [ ] **Diseño visual**
+
   - Verificar que los colores sean consistentes
   - Verificar que el texto sea legible
   - Verificar que los botones sean claros
   - ¿Hay algún elemento que se vea mal?
 
 - [ ] **Animaciones**
+
   - Observar transiciones entre pantallas
   - Observar animaciones de botones al presionar
   - ¿Las animaciones son suaves?
@@ -128,6 +140,7 @@ Esta lista te ayudará a probar todas las funcionalidades principales de FitCour
 ### Conectividad
 
 - [ ] **Sin conexión a internet**
+
   - Desactivar WiFi y datos móviles
   - Intentar usar la app
   - ¿Se muestra un mensaje de error apropiado?
@@ -140,6 +153,7 @@ Esta lista te ayudará a probar todas las funcionalidades principales de FitCour
 ### Permisos
 
 - [ ] **Denegar ubicación**
+
   - Rechazar permiso de ubicación
   - ¿Se muestra un mensaje explicativo?
   - ¿La app sigue funcionando (sin ubicación)?
@@ -153,6 +167,7 @@ Esta lista te ayudará a probar todas las funcionalidades principales de FitCour
 ### Rendimiento
 
 - [ ] **Uso de memoria**
+
   - Usar la app por 10-15 minutos
   - Navegar entre múltiples pantallas
   - ¿La app se siente lenta o se calienta el dispositivo?
@@ -165,10 +180,12 @@ Esta lista te ayudará a probar todas las funcionalidades principales de FitCour
 ## 📊 Casos Límite
 
 - [ ] **Muchos parques en pantalla**
+
   - Hacer zoom out para ver muchos marcadores
   - ¿El mapa se mantiene fluido?
 
 - [ ] **Zoom extremo**
+
   - Hacer zoom in al máximo
   - Hacer zoom out al máximo
   - ¿La app responde correctamente?
@@ -186,31 +203,35 @@ Si encuentras algún bug o comportamiento inesperado:
 2. Toma un **screenshot** o **video** del problema
 3. Anota exactamente qué estabas haciendo
 4. Usa nuestro [Template de Reporte de Bugs](./template-bug-report.md)
-5. Envía el reporte a: **[TU_EMAIL@fitcourt.com]**
+5. Envía el reporte a: **[fitcourttech@gmail.com]**
 
 ## 💡 Sugerencias
 
 Si tienes ideas para mejorar FitCourt:
+
 - ¿Qué funcionalidad te gustaría ver?
 - ¿Qué te resulta confuso o difícil de usar?
 - ¿Qué te gusta más de la app?
 
-Envía tus sugerencias a: **[TU_EMAIL@fitcourt.com]**
+Envía tus sugerencias a: **[fitcourttech@gmail.com]**
 
 ## 🎯 Prioridades de Prueba
 
 ### 🔴 Alta Prioridad
+
 - Registro e inicio de sesión
 - Visualización del mapa con Google Maps
 - Marcadores de parques visibles
 - Detalles de parques
 
 ### 🟡 Media Prioridad
+
 - Edición de perfil
 - Búsqueda de parques (si disponible)
 - Filtros de parques (si disponible)
 
 ### 🟢 Baja Prioridad
+
 - Animaciones y transiciones
 - Soporte de orientación horizontal
 - Rendimiento en dispositivos antiguos

@@ -120,7 +120,6 @@ Cuando publiquemos una nueva versión:
 ## 📞 ¿Necesitas Ayuda?
 
 - **Email**: [fitcourttech@gmail.com]
-- **Grupo de testers**: [LINK_A_SLACK/DISCORD]
 
 ---
 
