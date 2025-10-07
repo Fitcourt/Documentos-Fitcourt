@@ -33,8 +33,7 @@ Una vez instalada la app, revisa nuestra:
 Si encuentras algún bug o tienes sugerencias:
 
 1. Consulta nuestro [Template de Reporte de Bugs](./template-bug-report.md)
-2. Envía tu reporte por email a: **[TU_EMAIL@fitcourt.com]**
-3. O compártelo en nuestro grupo de testers: **[LINK_A_SLACK/DISCORD]**
+2. Envía tu reporte por email a: **[fitcourttech@gmail.com]**
 
 ## ❓ Preguntas Frecuentes
 
